@@ -4,3 +4,5 @@ There are three modes:
 1. Number Randomizer: for generating random numbers within a selected range.
 2. Word Randomiser: generates random words from a list.
 3. Dice roller – Dice with an adjustable number of sides and rolls.
+
+To run GUI version need to install tkinter.
